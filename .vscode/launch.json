@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
             "name": "getbit",
             "request": "launch",
             "mainClass": "getbit",
