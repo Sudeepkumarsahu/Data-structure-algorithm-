@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "getbit",
+            "request": "launch",
+            "mainClass": "getbit",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "LLCYcle",
+            "request": "launch",
+            "mainClass": "LLCYcle",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "selection",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FOR",
+            "request": "launch",
+            "mainClass": "FOR",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "O1tri",
+            "request": "launch",
+            "mainClass": "O1tri",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "Rtriangle",
+            "request": "launch",
+            "mainClass": "Rtriangle",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "calci",
+            "request": "launch",
+            "mainClass": "calci",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "comp",
+            "request": "launch",
+            "mainClass": "comp",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "doWhile",
+            "request": "launch",
+            "mainClass": "doWhile",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "floydtri",
+            "request": "launch",
+            "mainClass": "floydtri",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "functions.add",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "functions.hello",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "invertnumpramid",
+            "request": "launch",
+            "mainClass": "invertnumpramid",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "numpyramid",
+            "request": "launch",
+            "mainClass": "numpyramid",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "numtri",
+            "request": "launch",
+            "mainClass": "numtri",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "palindromic",
+            "request": "launch",
+            "mainClass": "palindromic",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "rect",
+            "request": "launch",
+            "mainClass": "rect",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "revtrian",
+            "request": "launch",
+            "mainClass": "revtrian",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "solidrhombus",
+            "request": "launch",
+            "mainClass": "solidrhombus",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "DSA_90e9f5ca"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "DSA_90e9f5ca"
+        }
+    ]
+}
